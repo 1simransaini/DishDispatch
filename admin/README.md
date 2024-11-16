@@ -1,5 +1,5 @@
 
-# SWEETO Admin App
+# Admin App
 
 Welcome to the SWEETO Admin App repository! This app serves as the admin panel for the SWEETO food ordering app, allowing restaurant owners or administrators to manage their menu, track orders, and view earnings. Below are the key features of the app:
 
@@ -28,9 +28,6 @@ Welcome to the SWEETO Admin App repository! This app serves as the admin panel f
 
 - Order Status Tracking: Monitor the status of each order from placement to completion.
 
- ## App Demo - https://youtu.be/9jNHSme0STs
- ## APK Link - https://drive.google.com/file/d/19W5_pReoFz6WkIDWgTPawVqpDCMpoX8t/view?usp=drive_link
-
 ## Screenshots 📸
 
 <img src="Screenshots/IMG-20240301-WA0023.jpg" alt="Screenshot 1" width="200"/> <img src="Screenshots/IMG-20240301-WA0022.jpg" alt="Screenshot 1" width="200"/>
@@ -56,10 +53,9 @@ Welcome to the SWEETO Admin App repository! This app serves as the admin panel f
 - Analytics: Tools like Firebase Analytics or Google Analytics for tracking user engagement and behavior within the app.
 
 
-
 ## Contributing
 
-We welcome contributions from the community to enhance SWEETO Admin App further. Feel free to fork the repository, make improvements, and submit pull requests.
+We welcome contributions from the community to enhance Admin App further. Feel free to fork the repository, make improvements, and submit pull requests.
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/awesome-feature`
